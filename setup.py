@@ -16,6 +16,7 @@ setup(
     maintainer_email="yencardonaal@unal.edu.co",
     download_url='',
     install_requires=[
+        'tensorflow',
     ],
     scripts=[
     ],
